@@ -9,3 +9,8 @@ the best ways are
 - Repeat
 
 Thank you for reading this
+
+
+# Summary 
+
+Its a nice repo
